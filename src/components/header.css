@@ -1,0 +1,9 @@
+.navbar-brand:hover{
+    color:blueviolet;
+    
+}
+.navbar-brand{
+    font-size: 25px;
+    transition: all 0.3s ease-in-out;
+}
+
